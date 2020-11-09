@@ -1,1 +1,1 @@
-print("Erol Merol herol -Hello world from Github-Jenkins")
+print("Erol Merol herol deneme-Hello world from Github-Jenkins")
